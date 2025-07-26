@@ -16,15 +16,3 @@ Your project is live at:
 
 **[https://vercel.com/mbdixit007-3015s-projects/v0-minimalist-newsletter-form](https://vercel.com/mbdixit007-3015s-projects/v0-minimalist-newsletter-form)**
 
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/z7ROSeqdKLV](https://v0.dev/chat/projects/z7ROSeqdKLV)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
