@@ -1,10 +1,3 @@
-# Minimalist newsletter form
-
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/mbdixit007-3015s-projects/v0-minimalist-newsletter-form)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/z7ROSeqdKLV)
-
 ## Overview
 
 This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
